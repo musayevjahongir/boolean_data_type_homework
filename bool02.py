@@ -1,4 +1,4 @@
-def main(a,b):
+def main(a):
     """
     check the following statement "The variable 'a' is equal 7"
     Args:
@@ -7,5 +7,5 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return a==b
-print(main(1,3))
+    return a==7
+print(main(1))
